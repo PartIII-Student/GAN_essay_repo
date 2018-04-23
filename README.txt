@@ -19,8 +19,8 @@ function and minibatches i.e.
 	no minibtaches ; min log(1-D(G(x)))
 	minibtaches ; max log(D(G(x)))
 	no minibtaches ; max log(D(G(x)))
-* All the data is stored in the subfolders in mode_data folder, note 
-objective function 1 corresponds to min log(1-D(G(x)).
+* All the data is stored in the subfolders in mode_data folder
+* Objective function 1 corresponds to min log(1-D(G(x)).
 * The code displayed in the Appendix is a simplified version of this script
 to ease exposition, this script was used to generate the data
 which was analysed
