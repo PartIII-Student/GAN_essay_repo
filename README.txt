@@ -2,8 +2,7 @@ For the simulations in Section 1.4.2.4 Score Adaptive Learning Rates:
 
 * SALR.py is the main script it will generate data for score adaptive learning rates 
 including for psi = 0.
-* SALR_control_adam.py and SALR_control_momentum.py generate data on the same
-problem using Adam and Momentum respectively.
+* SALR_control_momentum.py generate datas on the same problem using Momentum.
 * All data is saved to the subfolders in the folder SALR_data
 * The code displayed in the Appendix is a simplified version of these scripts
 to ease exposition, these scripts were used to generate the data
